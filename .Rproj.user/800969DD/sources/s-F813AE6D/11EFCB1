@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598061422990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "11EFCB1",
+    "lastKnownWriteTime" : 1598118233,
+    "last_content_update" : 1598118233147,
+    "path" : "E:/youtube/11_covid_v3/script/01_aed_covid.R",
+    "project_path" : "01_aed_covid.R",
+    "properties" : {
+        "cursorPosition" : "87,31",
+        "scrollLine" : "69",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
